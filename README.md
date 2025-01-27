@@ -9,7 +9,7 @@ This one uses python and if you didn't install python, Make sure you installed i
 If you are using a Linux or Mac simply write this in your Terminal:
 
 ```sudo apt install python3```
-```sudo apt instsall python3-scapy```
+```sudo apt install python3-scapy```
 
 **Usage:**
 
