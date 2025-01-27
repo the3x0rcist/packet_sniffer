@@ -13,7 +13,7 @@ If you are using a Linux or Mac simply write this in your Terminal:
 
 **Usage:**
 
-Th usage is simply that you have to specify what interface you want to listen on with -i switch and you can also write the output into a file using -o switch.
+Th usage is simply that you have to specify what interface you want to listen to with -i switch and you can also write the output into a file using -o switch.
 
 ```python3 sniffer.py -i eth0 -o captured.cap```
 
