@@ -2,7 +2,7 @@
 
 **Description:**
 
-This is a packet sniffer for network engineers, using Scapy module, to monitor the network for ethernet packets.
+This is a packet sniffer for network engineers, using Scapy module, to monitor the network for packets.
 
 This one uses python and if you didn't install python, Make sure you installed it already.
 
