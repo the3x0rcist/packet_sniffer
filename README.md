@@ -2,11 +2,11 @@
 
 **Description:**
 
-This is a packet sniffer for network engineers, using Scapy module, to monitor the network for packets.
+This is a packet sniffer for network engineers, using Scapy module for network monitoring.
 
-This one uses python and if you didn't install python, Make sure you installed it already.
+This one uses python and if you haven't installed python yet, Make sure you install it!
 
-If you are using a Linux or Mac simply write this in your Terminal:
+If you are using a Linux or Mac simply type this in your Terminal:
 
 ```sudo apt install python3```
 ```sudo apt install python3-scapy```
